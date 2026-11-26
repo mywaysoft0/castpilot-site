@@ -1,2 +1,4 @@
 body{font-family:-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;max-width:720px;margin:48px auto;padding:0 20px;line-height:1.75;color:#1c2233}
 h1{font-size:28px;margin-bottom:4px}h2{font-size:19px;margin-top:32px}.sub{color:#5a6275}a{color:#3a4a8c}footer{margin-top:48px;font-size:14px;color:#5a6275}
+nav{display:flex;gap:18px;font-size:15px;border-bottom:1px solid #e3e6ee;padding-bottom:12px;margin-bottom:28px}nav .home{font-weight:700;margin-right:auto;color:#1c2233;text-decoration:none}
+.yt{display:flex;align-items:center;gap:14px;border:1px solid #e3e6ee;border-radius:12px;padding:14px 18px;margin:24px 0}.yt .badge{background:#FF0000;color:#fff;font-weight:700;border-radius:8px;padding:6px 12px;white-space:nowrap}
